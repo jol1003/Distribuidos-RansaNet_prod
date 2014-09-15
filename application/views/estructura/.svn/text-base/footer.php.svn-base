@@ -1,0 +1,5 @@
+<div align="center">
+    Copyright &copy; <?= date('Y') ?> INPE. Todos los derechos reservados<br/>
+    Desarrollado por la Oficina de Sistemas del INPE <?=$this->config->item('fechasistema')?><br />
+    Para cualquier consulta comunicarse a <a href="mailto:webmaster.inpe.gob.pe">webmaster@inpe.gob.pe</a>
+</div>
